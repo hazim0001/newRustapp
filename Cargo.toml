@@ -1,5 +1,5 @@
 [package]
-name = "newRustapp"
+name = "new_rust_app"
 version = "0.1.0"
 edition = "2021"
 
